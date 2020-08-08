@@ -12,6 +12,15 @@
 			]
 		},
 		{
+			"Name": "OculusVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
+		},
+		{
 			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -22,35 +31,7 @@
 			]
 		},
 		{
-			"Name": "CompositePlane",
-			"Enabled": true
-		},
-		{
-			"Name": "Takes",
-			"Enabled": true
-		},
-		{
-			"Name": "TimedDataMonitor",
-			"Enabled": true
-		},
-		{
-			"Name": "VirtualProductionUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "VirtualCamera",
-			"Enabled": true
-		},
-		{
-			"Name": "DMXEngine",
-			"Enabled": true
-		},
-		{
-			"Name": "DMXFixtures",
-			"Enabled": true
-		},
-		{
-			"Name": "DMXProtocol",
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		},
 		{
@@ -58,34 +39,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WarpUtils",
+			"Name": "MultiUserClient",
 			"Enabled": true
-		},
-		{
-			"Name": "AppleARKit",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS"
-			]
-		},
-		{
-			"Name": "AppleARKitFaceSupport",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"IOS"
-			]
-		},
-		{
-			"Name": "BlackmagicMedia",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/433d28bdfb764ec5b2e60c4f45d5cb5c",
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
