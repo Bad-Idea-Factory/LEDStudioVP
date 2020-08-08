@@ -84,7 +84,7 @@
 			]
 		},
 		{
-			"Name": "NDIIOPlugin",
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	],
