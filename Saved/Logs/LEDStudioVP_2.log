@@ -820,3 +820,81 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.08-17.00.02:404][287]LogSlate: Window 'Editor Preferences' being destroyed
 [2020.08.08-17.00.06:999][759]LogConcert: Display: User 'Badideas' (Endpoint: 594C989C4F563599053F838B29EA921B) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
 [2020.08.08-17.00.07:011][760]LogConcert: Display: Synced activity '40' produced by endpoint '594C989C4F563599053F838B29EA921B': nDisplay left the session.
+[2020.08.08-17.01.44:319][539]LogConcert: Display: Synced activity '41' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp locked TextRenderActor2.NewTextRenderComponent in /Game/Maps/Main, plus 5 other resources.
+[2020.08.08-17.01.46:362][782]LogConcert: Display: Synced activity '42' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp modified GroupActor_0.GroupComponent in /Game/Maps/Main, plus 2 other actions.
+[2020.08.08-17.01.46:363][782]LogConcert: Display: Synced activity '43' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp unlocked GroupActor_0.GroupComponent in /Game/Maps/Main, plus 5 other resources.
+[2020.08.08-17.01.51:060][346]LogConcert: Display: Synced activity '44' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp locked TextRenderActor2.NewTextRenderComponent in /Game/Maps/Main, plus 5 other resources.
+[2020.08.08-17.01.53:986][695]LogConcert: Display: Synced activity '45' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp modified GroupActor_0.GroupComponent in /Game/Maps/Main, plus 2 other actions.
+[2020.08.08-17.01.53:986][695]LogConcert: Display: Synced activity '46' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp unlocked GroupActor_0.GroupComponent in /Game/Maps/Main, plus 5 other resources.
+[2020.08.08-17.03.12:486][164]LogConcert: Display: User 'Badideas' (Endpoint: 0ED341414ACFEB8D538613B7FA63E9F7) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.03.12:486][164]LogConcert: Display: Synced activity '47' produced by endpoint '0ED341414ACFEB8D538613B7FA63E9F7': nDisplay joined the session.
+[2020.08.08-17.03.48:631][454]LogConcert: Display: User 'Badideas' (Endpoint: D722584C41FD664C214B23873353FA35) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.03.48:632][454]LogConcert: Display: Synced activity '48' produced by endpoint 'D722584C41FD664C214B23873353FA35': nDisplay joined the session.
+[2020.08.08-17.04.12:648][641]LogConcert: Display: User 'Badideas' (Endpoint: 0ED341414ACFEB8D538613B7FA63E9F7) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.04.12:648][641]LogConcert: Display: Synced activity '49' produced by endpoint '0ED341414ACFEB8D538613B7FA63E9F7': nDisplay left the session.
+[2020.08.08-17.04.48:776][935]LogConcert: Display: User 'Badideas' (Endpoint: D722584C41FD664C214B23873353FA35) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.04.48:776][935]LogConcert: Display: Synced activity '50' produced by endpoint 'D722584C41FD664C214B23873353FA35': nDisplay left the session.
+[2020.08.08-17.05.01:143][ 62]LogConcert: Display: User 'Badideas' (Endpoint: 623D12B8440CE222354419BEEFC4F251) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.05.01:143][ 62]LogConcert: Display: Synced activity '51' produced by endpoint '623D12B8440CE222354419BEEFC4F251': nDisplay joined the session.
+[2020.08.08-17.06.24:196][634]LogConcert: Display: User 'Badideas' (Endpoint: 5D0F8F1841739EC43BD6228F045FBBDA) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.06.24:196][634]LogConcert: Display: Synced activity '52' produced by endpoint '5D0F8F1841739EC43BD6228F045FBBDA': nDisplay joined the session.
+[2020.08.08-17.07.02:041][ 78]LogConcert: Display: User 'Badideas' (Endpoint: 623D12B8440CE222354419BEEFC4F251) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.07.02:041][ 78]LogConcert: Display: Synced activity '53' produced by endpoint '623D12B8440CE222354419BEEFC4F251': nDisplay left the session.
+[2020.08.08-17.07.40:040][544]LogConcert: Display: User 'Badideas' (Endpoint: 5D0F8F1841739EC43BD6228F045FBBDA) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.07.40:051][545]LogConcert: Display: Synced activity '54' produced by endpoint '5D0F8F1841739EC43BD6228F045FBBDA': nDisplay left the session.
+[2020.08.08-17.14.07:160][741]LogConcert: Display: User 'Badideas' (Endpoint: 8DC9635F4EAE76C376FE68ABF0C61814) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.14.07:160][741]LogConcert: Display: User 'Badideas' (Endpoint: 9EEC06454BF54EFCAA0786AEB5027475) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.14.07:160][741]LogConcert: Display: Synced activity '55' produced by endpoint '8DC9635F4EAE76C376FE68ABF0C61814': nDisplay joined the session.
+[2020.08.08-17.14.07:161][741]LogConcert: Display: Synced activity '56' produced by endpoint '9EEC06454BF54EFCAA0786AEB5027475': nDisplay joined the session.
+[2020.08.08-17.15.06:108][269]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/WarpMesh/BP_WarpMonitor.BP_WarpMonitor
+[2020.08.08-17.15.08:204][473]LogRenderer: Reallocating scene render targets to support 1692x996 Format 10 NumSamples 1 (Frame:1).
+[2020.08.08-17.15.18:154][633]LogConcert: Display: Synced activity '57' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp locked /Game/WarpMesh/BP_WarpMonitor.
+[2020.08.08-17.15.19:633][810]LogConcert: Display: Synced activity '58' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp modified BP_WarpMonitor_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.08-17.15.23:219][239]LogEditorTransaction: Undo Modify Component(s)
+[2020.08.08-17.15.23:323][243]LogConcert: Display: Synced activity '59' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp modified BP_WarpMonitor_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.08-17.15.30:299][ 30]LogConcert: Display: Synced activity '60' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp modified BP_WarpMonitor_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.08-17.15.32:695][305]BlueprintLog: New page: Compile BP_WarpMonitor
+[2020.08.08-17.15.32:790][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.08.08-17.15.32:831][305]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.08.08-17.15.32:847][306]LogConcert: Display: Synced activity '61' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp locked /Game/WarpMesh/BP_ChangeFOVMultiplier.
+[2020.08.08-17.15.32:848][306]LogConcert: Display: Synced activity '62' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp locked /Game/WarpMesh/DisplayClusterRootActor3_Blueprint.
+[2020.08.08-17.15.32:848][306]LogConcert: Display: Synced activity '63' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp locked /Game/WarpMesh/DisplayClusterRootActor_BP.
+[2020.08.08-17.15.33:224][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WarpMesh/BP_WarpMonitor" FILE="D:/Documents/UnrealProjects/LEDStudioVP/Content/WarpMesh/BP_WarpMonitor.uasset" SILENT=true
+[2020.08.08-17.15.33:242][346]LogSavePackage: Moving 'D:/Documents/UnrealProjects/LEDStudioVP/Saved/BP_WarpMonitor2C063A7345AD2FC2A2BC82A08C28DEC5.tmp' to 'D:/Documents/UnrealProjects/LEDStudioVP/Content/WarpMesh/BP_WarpMonitor.uasset'
+[2020.08.08-17.15.33:262][346]AssetCheck: New page: Asset Save: BP_WarpMonitor
+[2020.08.08-17.15.33:262][346]LogContentValidation: Display: Validating Blueprint /Game/WarpMesh/BP_WarpMonitor.BP_WarpMonitor
+[2020.08.08-17.15.33:426][364]LogConcert: Display: Synced activity '64' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp saved package /Game/WarpMesh/BP_WarpMonitor.
+[2020.08.08-17.15.33:426][364]LogConcert: Display: Synced activity '65' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp unlocked /Game/WarpMesh/BP_WarpMonitor.
+[2020.08.08-17.15.36:268][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="D:/Documents/UnrealProjects/LEDStudioVP/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.08-17.15.36:290][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.08.08-17.15.36:311][700]LogSavePackage: Moving 'D:/Documents/UnrealProjects/LEDStudioVP/Saved/MainC1E35D6A45B3F55A73BC429125F5A7CC.tmp' to 'D:/Documents/UnrealProjects/LEDStudioVP/Content/Maps/Main.umap'
+[2020.08.08-17.15.36:345][700]AssetCheck: New page: Asset Save: Main
+[2020.08.08-17.15.36:346][700]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2020.08.08-17.15.36:399][705]LogConcert: Display: Synced activity '66' produced by endpoint 'ACAAFD4D4FC132930C1D049E72F49C69': RoryComp saved package /Game/Maps/Main.
+[2020.08.08-17.15.53:054][382]LogConcert: Display: User 'Badideas' (Endpoint: 8DC9635F4EAE76C376FE68ABF0C61814) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.15.53:054][382]LogConcert: Display: User 'Badideas' (Endpoint: 9EEC06454BF54EFCAA0786AEB5027475) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.15.53:054][382]LogConcert: Display: Synced activity '67' produced by endpoint '8DC9635F4EAE76C376FE68ABF0C61814': nDisplay left the session.
+[2020.08.08-17.15.53:054][382]LogConcert: Display: Synced activity '68' produced by endpoint '9EEC06454BF54EFCAA0786AEB5027475': nDisplay left the session.
+[2020.08.08-17.15.53:790][449]LogConcert: Display: User 'Badideas' (Endpoint: 26565E4F40D92A75EF193FB4FE6E9AA3) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.15.53:790][449]LogConcert: Display: User 'Badideas' (Endpoint: DDC664A24562F978A9D2D989F15911A8) joined Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.15.53:801][450]LogConcert: Display: Synced activity '69' produced by endpoint '26565E4F40D92A75EF193FB4FE6E9AA3': nDisplay joined the session.
+[2020.08.08-17.15.53:801][450]LogConcert: Display: Synced activity '70' produced by endpoint 'DDC664A24562F978A9D2D989F15911A8': nDisplay joined the session.
+[2020.08.08-17.16.08:862][708]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2020.08.08-17.16.08:868][708]LogConcert: [Pending] Persisting Session Changes
+[2020.08.08-17.16.08:888][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.08.08-17.16.09:016][708]LogSavePackage: Moving 'D:/Documents/UnrealProjects/LEDStudioVP/Saved/nDisplayBaseLevelB27CF59245276A9ACD6935A01DEFCD65.tmp' to 'D:/Documents/UnrealProjects/LEDStudioVP/Content/Maps/nDisplayBaseLevel.umap'
+[2020.08.08-17.16.09:089][708]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2020.08.08-17.16.09:089][708]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2020.08.08-17.16.09:093][708]AssetCheck: New page: Asset Save: nDisplayBaseLevel
+[2020.08.08-17.16.09:093][708]LogContentValidation: Display: Validating World /Game/Maps/nDisplayBaseLevel.nDisplayBaseLevel
+[2020.08.08-17.16.28:320][984]LogConcert: Display: User 'Badideas' (Endpoint: AF51F78549DFF1D8C50045A4FF2AE27E) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.16.28:321][984]LogConcert: Display: Synced activity '71' produced by endpoint 'AF51F78549DFF1D8C50045A4FF2AE27E': nDisplay left the session.
+[2020.08.08-17.16.40:913][300]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2020.08.08-17.16.40:919][300]LogConcert: [Pending] Persisting Session Changes
+[2020.08.08-17.16.40:919][300]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2020.08.08-17.16.40:919][300]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2020.08.08-17.16.44:371][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.08.08-17.16.54:110][621]LogConcert: Display: User 'Badideas' (Endpoint: 26565E4F40D92A75EF193FB4FE6E9AA3) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.16.54:110][621]LogConcert: Display: User 'Badideas' (Endpoint: DDC664A24562F978A9D2D989F15911A8) left Concert session 'LEDStudioVP' (Id: E9D8BBA379EF4C648B0A42F67A5285C5, Owner: Badideas).
+[2020.08.08-17.16.54:110][621]LogConcert: Display: Synced activity '72' produced by endpoint '26565E4F40D92A75EF193FB4FE6E9AA3': nDisplay left the session.
+[2020.08.08-17.16.54:111][621]LogConcert: Display: Synced activity '73' produced by endpoint 'DDC664A24562F978A9D2D989F15911A8': nDisplay left the session.
