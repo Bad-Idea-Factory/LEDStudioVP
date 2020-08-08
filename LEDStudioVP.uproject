@@ -82,6 +82,10 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
