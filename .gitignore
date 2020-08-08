@@ -13,3 +13,6 @@ Plugins
 *.suo
 *.xcodeproj
 *.xcworkspace
+Saved/*
+Saved/Config/*
+Saved/Logs/*
