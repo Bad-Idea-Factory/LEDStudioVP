@@ -14,3 +14,7 @@ Plugins
 *.xcodeproj
 *.xcworkspace
 Saved
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/Engine.ini
+Saved/Logs/LEDStudioVP.log
