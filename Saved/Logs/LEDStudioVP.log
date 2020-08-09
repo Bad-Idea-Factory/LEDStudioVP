@@ -850,3 +850,104 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.09-05.51.53:045][846]LogFileHelpers: Saving map 'nDisplayBaseLevel' took 0.039
 [2020.08.09-05.51.53:057][846]AssetCheck: New page: Asset Save: nDisplayBaseLevel
 [2020.08.09-05.51.53:057][846]LogContentValidation: Display: Validating World /Game/Maps/nDisplayBaseLevel.nDisplayBaseLevel
+[2020.08.09-05.53.22:118][538]LogConcert: [Pending] Joining Session 'LEDStudioVP' on 'bigbadvps1'... - Looking for Server 'bigbadvps1'...
+[2020.08.09-05.53.23:144][613]LogConcert: [Pending] Joining Session 'LEDStudioVP' on 'bigbadvps1'... - Validating Workspace...
+[2020.08.09-05.53.23:251][624]LogConcert: [Pending] Creating Session 'LEDStudioVP'... - Validating Workspace...
+[2020.08.09-05.53.23:353][633]LogConcert: [Pending] Creating Session 'LEDStudioVP'... - Attempting Remote Connection...
+[2020.08.09-05.53.23:414][639]SourceControl: Source control is disabled
+[2020.08.09-05.53.23:414][639]SourceControl: Source control is disabled
+[2020.08.09-05.53.23:414][639]LogConcert: Display: Initialized Concert session 'LEDStudioVP' (Id: BECED1A8C8CF404587D2835A0A8689BC, Owner: Badideas).
+[2020.08.09-05.53.23:414][639]LogConcert: Display: Connecting to Concert session 'LEDStudioVP' (Id: BECED1A8C8CF404587D2835A0A8689BC, Owner: Badideas).
+[2020.08.09-05.53.23:463][644]LogConcert: Display: Connected to Concert session 'LEDStudioVP' (Id: BECED1A8C8CF404587D2835A0A8689BC, Owner: Badideas).
+[2020.08.09-05.53.23:463][645]LogConcert: [Success] Created Session 'LEDStudioVP'
+[2020.08.09-05.53.23:492][647]LogConcert: Display: Synced activity '1' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp joined the session.
+[2020.08.09-05.54.04:810][185]LogConcert: Display: Synced activity '2' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp locked CineCameraActor_1.SceneComponent in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.54.08:124][580]LogConcert: Display: Synced activity '3' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified CineCameraActor_1.SceneComponent in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.54.08:124][580]LogConcert: Display: Synced activity '4' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp unlocked CineCameraActor_1.SceneComponent in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.54.08:942][678]Cmd: TRANSACTION UNDO
+[2020.08.09-05.54.08:942][678]LogEditorTransaction: Undo Move Actors
+[2020.08.09-05.54.09:123][681]LogConcert: Display: Synced activity '5' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified CineCameraActor_1.SceneComponent in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.54.13:505][157]LogConcert: Display: Synced activity '6' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp locked nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.54.19:005][811]LogConcert: Display: Synced activity '7' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.54.19:005][811]LogConcert: Display: Synced activity '8' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp unlocked nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.54.20:274][963]Cmd: TRANSACTION UNDO
+[2020.08.09-05.54.20:274][963]LogEditorTransaction: Undo Move Actors
+[2020.08.09-05.54.20:429][967]LogConcert: Display: Synced activity '9' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.55.56:753][475]LogConcert: Display: User 'Badideas' (Endpoint: C805A0B04B5B5A960AF0E382070223E0) joined Concert session 'LEDStudioVP' (Id: BECED1A8C8CF404587D2835A0A8689BC, Owner: Badideas).
+[2020.08.09-05.55.56:754][475]LogConcert: Display: Synced activity '10' produced by endpoint 'C805A0B04B5B5A960AF0E382070223E0': nDisplay joined the session.
+[2020.08.09-05.56.07:175][268]LogConcert: Display: Synced activity '11' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp locked nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.56.16:725][405]LogConcert: Display: Synced activity '12' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.16:725][405]LogConcert: Display: Synced activity '13' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp unlocked nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.56.17:577][507]LogConcert: Display: Synced activity '14' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp locked nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.56.19:733][762]LogConcert: Display: Synced activity '15' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.19:733][762]LogConcert: Display: Synced activity '16' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp unlocked nDisplayPawn.CollisionComponent0 in /Game/Maps/nDisplayBaseLevel, plus 1 other resource.
+[2020.08.09-05.56.20:143][811]LogEditorViewport: Clicking on Actor (LMB): BP_LEDStageOriginView_C (BP_LEDStageOriginView)
+[2020.08.09-05.56.21:355][952]LogConcert: Display: Synced activity '17' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp locked BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.25:860][490]LogConcert: Display: Synced activity '18' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.25:860][490]LogConcert: Display: Synced activity '19' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp unlocked BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.26:757][598]LogConcert: Display: Synced activity '20' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp locked BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.31:078][114]LogConcert: Display: Synced activity '21' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.31:078][114]LogConcert: Display: Synced activity '22' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp unlocked BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.38:228][935]LogConcert: Display: Synced activity '23' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.39:082][ 32]LogConcert: Display: Synced activity '24' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.40:411][191]LogConcert: Display: Synced activity '25' produced by endpoint '3EF811D545A60CB98A7987BFC45D96E7': RoryComp modified BP_LEDStageOriginView_2 in /Game/Maps/nDisplayBaseLevel.
+[2020.08.09-05.56.58:785][975]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2020.08.09-05.56.58:792][975]LogConcert: [Pending] Persisting Session Changes
+[2020.08.09-05.56.58:823][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.08.09-05.56.58:960][975]LogSavePackage: Moving 'D:/Documents/UnrealProjects/LEDStudioVP/Saved/nDisplayBaseLevel2B271B2C43A716A90D01B69E0191A05B.tmp' to 'D:/Documents/UnrealProjects/LEDStudioVP/Content/Maps/nDisplayBaseLevel.umap'
+[2020.08.09-05.56.59:027][975]LogConcert: [Pending] Persisting Session Changes - See Message Log
+[2020.08.09-05.56.59:027][975]LogConcert: [Success] Successfully Persisted Session Changes - Succesfully persisted session files
+[2020.08.09-05.56.59:032][975]AssetCheck: New page: Asset Save: nDisplayBaseLevel
+[2020.08.09-05.56.59:032][975]LogContentValidation: Display: Validating World /Game/Maps/nDisplayBaseLevel.nDisplayBaseLevel
+[2020.08.09-05.57.00:611][139]LogConcert: Display: User 'Badideas' (Endpoint: C805A0B04B5B5A960AF0E382070223E0) left Concert session 'LEDStudioVP' (Id: BECED1A8C8CF404587D2835A0A8689BC, Owner: Badideas).
+[2020.08.09-05.57.00:621][139]LogConcert: Display: Disconnected from Concert session 'LEDStudioVP' (Id: BECED1A8C8CF404587D2835A0A8689BC, Owner: Badideas).
+[2020.08.09-05.57.00:621][139]SourceControl: Source control is disabled
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/Engine/' was aborted.
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/LEDStudioVP/' was aborted.
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/Paper2D/' was aborted.
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/Composure/' was aborted.
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/LensDistortion/' was aborted.
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/OpenColorIO/' was aborted.
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/AnimationSharing/' was aborted.
+[2020.08.09-05.57.00:627][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/ConcertSyncClient/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/GeometryMode/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/DatasmithContent/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/ChaosClothEditor/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/ChaosNiagara/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/ChaosSolverPlugin/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/GeometryProcessing/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/Niagara/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/MagicLeap/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/MagicLeapPassableWorld/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/MediaCompositing/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/MovieRenderPipeline/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/nDisplay/' was aborted.
+[2020.08.09-05.57.00:628][139]LogDirectoryWatcher: A directory notification for 'D:/Documents/UnrealProjects/LEDStudioVP/Intermediate/Concert/MultiUser/578845614EF956F474514CA5C9E7FEA2/BECED1A8C8CF404587D2835A0A8689BC/Sandbox/PostSplashScreen/' was aborted.
+[2020.08.09-05.57.00:631][139]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/Maps/nDisplayBaseLevel
+[2020.08.09-05.57.00:679][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.08.09-05.57.00:686][139]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'nDisplayBaseLevel:PersistentLevel.BP_LEDStageOriginView_2.BillboardComponent_125' (transient) in the new package '/Game/Maps/nDisplayBaseLevel'. Any existing references to this object will be nulled out.
+[2020.08.09-05.57.00:686][139]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'nDisplayBaseLevel:PersistentLevel.BP_WarpMonitor_2.BillboardComponent_2' (transient) in the new package '/Game/Maps/nDisplayBaseLevel'. Any existing references to this object will be nulled out.
+[2020.08.09-05.57.00:892][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.08.09-05.57.00:906][139]LogConcert: Display: Shutdown Concert session 'LEDStudioVP' (Id: BECED1A8C8CF404587D2835A0A8689BC, Owner: Badideas).
+[2020.08.09-05.57.01:614][142]LogConcert: Display: Server bigbadvps1 lost.
+[2020.08.09-05.57.01:638][145]LogConcert: Display: Server bigbadvps1 discovered.
+[2020.08.09-05.57.05:466][425]LogSlate: Window 'Delete Session Confirmation' being destroyed
+[2020.08.09-05.57.05:469][425]Message dialog closed, result: Yes, title: Delete Session Confirmation, text: Do you really want to delete the session "LEDStudioVP" from the server "bigbadvps1"?
+[2020.08.09-05.57.05:473][425]LogConcert: [Pending] Deleting Session...
+[2020.08.09-05.57.06:415][492]LogConcert: [Success] Deleted Session 'LEDStudioVP'
+[2020.08.09-05.58.57:489][547]BlueprintLog: New page: Compile BP_WarpMonitor
+[2020.08.09-05.58.57:564][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.08.09-05.58.58:508][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WarpMesh/BP_WarpMonitor" FILE="D:/Documents/UnrealProjects/LEDStudioVP/Content/WarpMesh/BP_WarpMonitor.uasset" SILENT=true
+[2020.08.09-05.58.58:529][650]LogSavePackage: Moving 'D:/Documents/UnrealProjects/LEDStudioVP/Saved/BP_WarpMonitorE7DD189B40FE01BD5485E2AD9C735DAB.tmp' to 'D:/Documents/UnrealProjects/LEDStudioVP/Content/WarpMesh/BP_WarpMonitor.uasset'
+[2020.08.09-05.58.58:539][650]AssetCheck: New page: Asset Save: BP_WarpMonitor
+[2020.08.09-05.58.58:539][650]LogContentValidation: Display: Validating Blueprint /Game/WarpMesh/BP_WarpMonitor.BP_WarpMonitor
+[2020.08.09-05.59.03:257][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.08.09-05.59.05:842][203]LogSlate: Window 'Save Content' being destroyed
+[2020.08.09-05.59.05:860][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/nDisplayBaseLevel" FILE="D:/Documents/UnrealProjects/LEDStudioVP/Content/Maps/nDisplayBaseLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.09-05.59.05:882][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.08.09-05.59.05:896][203]LogSavePackage: Moving 'D:/Documents/UnrealProjects/LEDStudioVP/Saved/nDisplayBaseLevel537C675F4BD5B14828E01996AA754C97.tmp' to 'D:/Documents/UnrealProjects/LEDStudioVP/Content/Maps/nDisplayBaseLevel.umap'
+[2020.08.09-05.59.05:897][203]LogFileHelpers: Saving map 'nDisplayBaseLevel' took 0.038
+[2020.08.09-05.59.05:906][203]AssetCheck: New page: Asset Save: nDisplayBaseLevel
+[2020.08.09-05.59.05:906][203]LogContentValidation: Display: Validating World /Game/Maps/nDisplayBaseLevel.nDisplayBaseLevel
